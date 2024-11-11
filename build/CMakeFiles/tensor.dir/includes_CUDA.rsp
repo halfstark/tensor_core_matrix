@@ -1,0 +1,1 @@
+-I/home/star/workspace/cuda/cuda_blas/include -isystem "/opt/cuda/targets/x86_64-linux/include"

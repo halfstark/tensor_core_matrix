@@ -1,0 +1,1 @@
+/usr/bin/g++-13 @CMakeFiles/tensor.dir/objects1.rsp -o tensor @CMakeFiles/tensor.dir/linkLibs.rsp -L"/opt/cuda/targets/x86_64-linux/lib/stubs" -L"/opt/cuda/targets/x86_64-linux/lib"

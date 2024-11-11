@@ -1,0 +1,3 @@
+/home/star/workspace/cuda/tensor_core/build/CMakeFiles/tensor.dir
+/home/star/workspace/cuda/tensor_core/build/CMakeFiles/edit_cache.dir
+/home/star/workspace/cuda/tensor_core/build/CMakeFiles/rebuild_cache.dir
